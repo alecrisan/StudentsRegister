@@ -1,0 +1,15 @@
+(lp0
+(iAssignment0507.domain.Grade
+Grade
+p1
+(dp2
+S'grade_value'
+p3
+I10
+sS'studentId'
+p4
+I100
+sS'disciplineId'
+p5
+I90
+sba.
